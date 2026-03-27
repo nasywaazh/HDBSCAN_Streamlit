@@ -3,6 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
+import hdbscan
+from sklearn.preprocessing import StandardScaler
 
 # Navigation 
 st.set_page_config(page_title="Klasterisasi Banjir", layout="wide")
