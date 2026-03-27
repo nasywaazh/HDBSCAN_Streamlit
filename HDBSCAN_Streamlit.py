@@ -12,10 +12,7 @@ st.set_page_config(page_title="Klasterisasi Banjir", layout="wide")
 # ======================
 menu = st.sidebar.radio("Pilih Halaman", [
     "Beranda",
-    "Data",
-    "Metode",
-    "Peta Klaster",
-    "Klasterisasi"
+    "Metode"
 ])
 
 # ======================
