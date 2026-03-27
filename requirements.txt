@@ -4,5 +4,5 @@ matplotlib==3.8.4
 seaborn==0.13.2
 streamlit==1.37.1
 scikit-learn
-hdbscan
+hdbscan==0.8.33
 Babel==2.11.0
